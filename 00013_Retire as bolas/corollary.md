@@ -1,0 +1,1 @@
+Bom! E se não houvesse bolas para tirar? :frowning:

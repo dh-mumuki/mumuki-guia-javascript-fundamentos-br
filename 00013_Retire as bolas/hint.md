@@ -1,0 +1,1 @@
+Você pode ter que mover a garra **antes** de retirar a bola: innocent:
