@@ -12,73 +12,73 @@ A sintaxe do `programa` em `Gobstones` é bastante simples:
 
 Alguns exemplos de `program`s:
 
-<table class= "table" style="width:100%">
+<table class = "table" style = "largura: 100%">
   <tbody>
   <tr>
-    <td style="text-align: left">  
-      <pre class="highlight gobstones"><code><span class="kr">program </span>{
-}</code></pre>
-    </td>
-    <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
-    <td style="text-align: left">
-No hace nada
-    </td>
-  </tr>
+    <td style = "text-align: left">
+      <pre class = "highlight gobstones"> <código> <span class = "kr"> programa </ span> {
+} </ code> </ pre>
+    </ td>
+    <td style = "alinhamento de texto: centro"> <i class = "fa fa-arrow-right"> </ i> </ td>
+    <td style = "text-align: left">
+Não faz nada
+    </ td>
+  </ tr>
   <tr>
-    <td style="text-align: left">  
-      <pre class="highlight gobstones"><code><span class="kr">program </span>{
-  Mover(Norte)
-}</code></pre>
-    </td>
-    <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
-    <td style="text-align: left">
-Mueve el cabezal una posición hacia el norte
-    </td>
-  </tr>
+    <td style = "text-align: left">
+      <pre class = "highlight gobstones"> <código> <span class = "kr"> programa </ span> {
+  Mover-se (norte)
+} </ code> </ pre>
+    </ td>
+    <td style = "alinhamento de texto: centro"> <i class = "fa fa-arrow-right"> </ i> </ td>
+    <td style = "text-align: left">
+Mova a cabeça uma posição para o norte
+    </ td>
+  </ tr>
   <tr>
-    <td style="text-align: left">  
-      <pre class="highlight gobstones"><code><span class="kr">program </span>{
-  Mover(Norte)
-  Mover(Norte)
-}</code></pre>
-    </td>
-    <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
-    <td style="text-align: left">
-Mueve el cabezal dos posiciones hacia el norte
-    </td>
-  </tr>
+    <td style = "text-align: left">
+      <pre class = "highlight gobstones"> <código> <span class = "kr"> programa </ span> {
+  Mover-se (norte)
+  Mover-se (norte)
+} </ code> </ pre>
+    </ td>
+    <td style = "alinhamento de texto: centro"> <i class = "fa fa-arrow-right"> </ i> </ td>
+    <td style = "text-align: left">
+Mova a cabeça duas posições para o norte
+    </ td>
+  </ tr>
   <tbody>
-</table>
+</ table>
 
 
 
 > Sabendo disso, eu escrevi um programa que move a cabeça três vezes para o norte, em uma placa de 2x4 com a cabeça na origem (a célula na parte inferior esquerda):
 
-<table class = "table" style = "largura: 100%">
+<table class= "table" style="width:100%">
   <thead>
   <tr>
-    <th style = "text-align: center"> Inicial </ th>
-    <th style = "text-align: center"> </ th>
-    <th style = "text-align: center"> Fim </ th>
-  </ tr>
-  </ thead>
+    <th style="text-align: center">Inicial</th>
+    <th style="text-align: center"></th> 
+    <th style="text-align: center">Final</th>
+  </tr>
+  </thead>
   <tbody>
   <tr>
-    <td style = "text-align: center">
+    <td style="text-align: center">  
       <gs-board>
-        GBB / 1,0
-        tamanho 2 4
-        cabeça 0 0
-      </ gs-board>
-    </ td>
-    <td style = "alinhamento de texto: centro"> <i class = "fa fa-arrow-right"> </ i> </ td>
-    <td style = "text-align: center">
+        GBB/1.0
+        size 2 4
+        head 0 0
+      </gs-board>
+    </td>
+    <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
+    <td style="text-align: center">
       <gs-board>
-        GBB / 1,0
-        tamanho 2 4
-        cabeça 0 3
-      </ gs-board>
-    </ td>
-  </ tr>
+        GBB/1.0
+        size 2 4
+        head 0 3
+      </gs-board>
+    </td>
+  </tr>
   <tbody>
-</ table>
+</table>
