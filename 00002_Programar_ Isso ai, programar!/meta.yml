@@ -1,0 +1,18 @@
+---
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- value: 'Através de uma linguagem que o computador e as pessoas possam entender:
+    linguagens de programação.'
+  checked: true
+- value: 'Através de uma linguagem que o computador e as pessoas possam entender:
+    Inglês'
+  checked: false
+- value: Através de cálculos de matemáticos.
+  checked: false
+name: Programar? Isso ai, programar!
