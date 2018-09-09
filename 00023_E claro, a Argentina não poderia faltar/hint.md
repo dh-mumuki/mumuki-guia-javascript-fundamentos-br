@@ -1,0 +1,1 @@
+Olhe, observe que, de acordo com o gráfico, a garra deve estar na mesma posição em que estava quando a execução do programa começou.
