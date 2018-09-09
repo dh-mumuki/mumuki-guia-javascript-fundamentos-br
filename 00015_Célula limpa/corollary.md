@@ -1,0 +1,1 @@
+Ótimo! Agora que você sabe que as bolas 'Colocar', 'Retirar' e 'Mover' a garra do tabuleiro, estamos prontos para exercícios divertidos! :muscle:
