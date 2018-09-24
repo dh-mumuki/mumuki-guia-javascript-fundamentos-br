@@ -1,9 +1,11 @@
 Neste exercício aprenderemos um comando que podemos dar ao computador: 
 “Mover a garra". Para isso, indicaremos com base nos pontos cardeais, a direção que este irá mover:
-Norte (a cima)
-Sul (abaixo)
-Leste (direita)
-Oeste (esquerda)
+
+* Norte (acima)
+* Sul (abaixo)
+* Leste (direita)
+* Oeste (esquerda)
+
 
 Por exemplo, partindo de um tabuleiro **inicial** vazio, podemos facilmente escrever um programa que mova a garra à posição “Norte”:
 
