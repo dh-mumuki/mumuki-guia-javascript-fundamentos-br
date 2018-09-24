@@ -46,7 +46,7 @@ program {
 }
 ```
 
-**Olho** :eyes:  
+:eyes:  
 Observe que as direções sempre são escritas com  a primeira letra maiúscula.
 
 > Não acredita? Copie e cole o código anterior no editor e envie.  **Enviar**.
