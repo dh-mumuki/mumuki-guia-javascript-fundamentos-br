@@ -6,7 +6,7 @@ Como você pode ver abaixo, o novo tabuleiro que geramos tem uma célula marcada
     head 0 0
 </gs-board>
 
-Por que isso acontece? Porque em nosso tabuleiro teremos uma máquina que possui uma **garra** que em todos os momentos estará localizada em alguma das células do tabuleiro, isso irá nos permitir executar várias operações sobre ele,  (iremos conhecer a, paciência  :grin:).
+Por que isso acontece? Porque em nosso tabuleiro teremos uma máquina que possui uma **garra** que em todos os momentos estará localizada em alguma das células do tabuleiro, isso irá nos permitir executar várias operações sobre ele,  (iremos conhecer, paciência  :grin:).
 
 Algo importante: observe que contamos as linhas de baixo para cima e as colunas da esquerda para a direita. A primeira **linha** é a **inferior** e a primeira **coluna** é a da **esquerda**. Mas também, se você prestar atenção, verá que a primeira linha é **zero** e a primeira coluna também é **zero**. Isto é assim porque em todas as linguagens de programação sempre começamos a contar do **zero**.
 
