@@ -1,4 +1,4 @@
-Para se comunicar com o computador, aprenderemos a programar usando JavaScript, uma das linguagens de programação mais usadas. Mas antes de começarmos a programar em JavaScript, temos que aprender a pensar da mesma maneira que um computador pensa. Por isso que vamos usar `Gobstones`, uma linguagem de programação em que trabalhamos com  **bolas** que se movem por um **tabuleiro**, semelhante ao Xadrez, Damas ou [GO] (http: // es.wikipedia.org/wiki/Go)
+Para se comunicar com o computador, aprenderemos a programar usando JavaScript, uma das linguagens de programação mais usadas atualmente. Mas antes de começarmos a programar em JavaScript, temos que aprender a pensar da mesma maneira que um computador pensa. Por isso que vamos usar `Gobstones`, uma linguagem de programação em que trabalhamos com  **bolas** que se movem por um **tabuleiro**, semelhante ao Xadrez, Damas ou [GO] (http: // es.wikipedia.org/wiki/Go)
 
 Esses tabuleiros podem ser de qualquer tamanho, por exemplo:
 
@@ -8,4 +8,4 @@ Esses tabuleiros podem ser de qualquer tamanho, por exemplo:
 
 Para cada exercício desta primeira seção (**fundações**), teremos uma tabuleiro onde podemos **executar** nosso **programa**. O interessante é que o mesmo programa pode ser executado em diferentes tabuleiros, produzindo resultados diferentes.
 
-> Não se preocupe, nós seremos responsáveis ​​por criar os tabuleiros para você em cada um dos exercícios. E assim você pode ver que não estamos mentindo, pressione o botão ** Continuar **, e nós vamos gerar seu primeiro tabuleiro: um tabuleiro 3x3.
+> Não se preocupe, nós seremos responsáveis por criar os tabuleiros para você em cada um dos exercícios. E assim você pode ver que não estamos mentindo, pressione o botão **Continuar**, e nós vamos gerar seu primeiro tabuleiro: um tabuleiro 3x3.
