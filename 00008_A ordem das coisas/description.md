@@ -49,10 +49,10 @@ uma forma possível de lê-lo (chamada **sequencial**) é como uma máquina fari
 
 E de fato **é executado dessa maneira**.
 
-Mas, nós humanos tendemos a pensar em termos do resultado final, isto é, enfatizamos o ** objetivo ** do programa. Nós nos preocupamos mais com o que ele faz, e não tanto como se faz. Essa maneira de pensar nos levaria a dizer, simplesmente, ** mover a garra para o canto nordeste **.
+Mas, nós humanos tendemos a pensar em termos do resultado final, isto é, enfatizamos o **objetivo** do programa. Nós nos preocupamos mais com o que ele faz, e não tanto como se faz. Essa maneira de pensar nos levaria a dizer, simplesmente, **mover a garra para o canto nordeste**.
 
 
 Por isso há várias formas de resolver um mesmo problema: podemos escrever vários programas que faça o mesmo (o _que_), mas faça diferente (o _como_).
 
 
-> Vejamos se você entendeu isso: eu escrevi outro programa que faz o mesmo que o anterior (move-se para o canto nordeste), mas de uma maneira diferente. ** Olho: ** tem que trabalhar em um tabuleiro 3x3.
+> Vejamos se você entendeu isso: eu escrevi outro programa que faz o mesmo que o anterior (move-se para o canto nordeste), mas de uma maneira diferente. Tem que trabalhar em um tabuleiro 3x3.
