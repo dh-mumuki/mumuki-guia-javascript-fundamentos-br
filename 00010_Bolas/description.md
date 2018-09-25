@@ -29,7 +29,7 @@ program {
 ```
 
 
-> Experimente este programa! Eu escrevi o código no editor e dei a ele ** Enviar ** para ver o que acontece quando eu o executo neste tabuleiro.
+> Experimente este programa! Escrevi o código no editor e dei a ele **Enviar** para ver o que acontece quando eu o executo neste tabuleiro.
 
 <gs-board>
   GBB/1.0
