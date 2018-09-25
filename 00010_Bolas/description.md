@@ -24,7 +24,7 @@ Além de se mover, a garra também pode colocar bolas na célula onde está. Par
 
 ```gobstones
 program {
-  Poner(Rojo)    
+  Colocar(Vermelho)    
 }
 ```
 
