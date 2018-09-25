@@ -4,9 +4,9 @@ Olhe para o programa que você escreveu:
 
 ```puppet
 program {
-	Colocar (Vermelho)
-  Mover (Leste)
-  Colocar (Preto)
+  Poner(Rojo)
+  Mover(Este)
+  Poner(Negro)
 }
 ```
 
