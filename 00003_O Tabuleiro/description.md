@@ -6,6 +6,6 @@ Esses tabuleiros podem ser de qualquer tamanho, por exemplo:
 |:---:|:---:|
 |![4x4](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/4x4.png)|![3x2](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-fundamentos-gobstones-guia-1-primeros-programas/master/3x2.png)|
 
-Para cada exercício desta primeira seção (**fundações**), teremos um tabuleiro onde podemos **executar** nosso **programa**. O interessante é que o mesmo programa pode ser executado em diferentes tabuleiros, produzindo resultados diferentes.
+Para cada exercício desta primeira seção (**fundamentos**), teremos um tabuleiro onde podemos **executar** nosso **programa**. O interessante é que o mesmo programa pode ser executado em diferentes tabuleiros, produzindo resultados diferentes.
 
 > Não se preocupe, nós seremos responsáveis por criar os tabuleiros para você em cada um dos exercícios. E assim você pode ver que não estamos mentindo, pressione o botão **Continuar**, e nós vamos gerar seu primeiro tabuleiro: um tabuleiro 3x3.
