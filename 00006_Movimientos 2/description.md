@@ -16,7 +16,7 @@ Alguns exemplos de `program`:
   <tbody>
   <tr>
     <td style = "text-align: left">
-      <pre class = "highlight gobstones"> <código> <span class = "kr"> programa </ span> {
+      <pre class = "highlight gobstones"> <código> <span class = "kr"> program </ span> {
 } </ code> </ pre>
     </ td>
     <td style = "alinhamento de texto: centro"> <i class = "fa fa-arrow-right"> </ i> </ td>
@@ -26,7 +26,7 @@ Não faz nada
   </ tr>
   <tr>
     <td style = "text-align: left">
-      <pre class = "highlight gobstones"> <código> <span class = "kr"> programa </ span> {
+      <pre class = "highlight gobstones"> <código> <span class = "kr"> program </ span> {
   Mover(Norte)
 } </ code> </ pre>
     </ td>
@@ -37,7 +37,7 @@ Mova a cabeça uma posição para o norte
   </ tr>
   <tr>
     <td style = "text-align: left">
-      <pre class = "highlight gobstones"> <código> <span class = "kr"> programa </ span> {
+      <pre class = "highlight gobstones"> <código> <span class = "kr"> program </ span> {
   Mover(Norte)
   Mover(Norte)
 } </ code> </ pre>
