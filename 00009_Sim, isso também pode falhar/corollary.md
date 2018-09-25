@@ -1,6 +1,6 @@
 **BOOOOOOOOOOOOOOOOOM!** :bomb: :bomb: :bomb:
 
-_Ey, O que aconteceu?_<br>
+_Hyy, O que aconteceu?_<br>
 Seu programa falhou, ou como chamamos no universo Gobstones: **fez BOOM**.
 
 _E o que isso significa?_<br>
