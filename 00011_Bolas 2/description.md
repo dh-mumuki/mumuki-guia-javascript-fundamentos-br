@@ -1,4 +1,4 @@
-Algo interessante sobre nossos tabuleiros é que em suas casa podemos colocar qualquer número de bolas de qualquer cor.
+Algo interessante sobre nossos tabuleiros é que em suas células podemos colocar qualquer número de bolas de qualquer cor.
 
 Por exemplo, se tivermos este tabuleiro:
 
