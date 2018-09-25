@@ -1,20 +1,20 @@
 Note que estes dois programas fazem o mesmo:
 
-`` `gobstones
+```gobstones
 program {
-  Mover (leste)
-  Mover (leste)
-  Mover (Sul)
+  Mover(Leste)
+  Mover(Leste)
+  Mover(Sul)
 }
-`` `
+```
 
-`` `gobstones
+```gobstones
 program {
-  Mover (leste)
-  Mover (Sul)
-  Mover (leste)
+  Mover(Leste)
+  Mover(Sul)
+  Mover(Leste)
 }
-`` `
+```
 
 Moral: ** Não existe uma única maneira de resolver um problema! **
 
