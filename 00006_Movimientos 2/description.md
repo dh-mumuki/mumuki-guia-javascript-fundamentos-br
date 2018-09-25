@@ -27,7 +27,7 @@ Não faz nada
   <tr>
     <td style = "text-align: left">
       <pre class = "highlight gobstones"> <código> <span class = "kr"> programa </ span> {
-  Mover-se (norte)
+  Mover(Norte)
 } </ code> </ pre>
     </ td>
     <td style = "alinhamento de texto: centro"> <i class = "fa fa-arrow-right"> </ i> </ td>
@@ -38,8 +38,8 @@ Mova a cabeça uma posição para o norte
   <tr>
     <td style = "text-align: left">
       <pre class = "highlight gobstones"> <código> <span class = "kr"> programa </ span> {
-  Mover-se (norte)
-  Mover-se (norte)
+  Mover(Norte)
+  Mover(Norte)
 } </ code> </ pre>
     </ td>
     <td style = "alinhamento de texto: centro"> <i class = "fa fa-arrow-right"> </ i> </ td>
