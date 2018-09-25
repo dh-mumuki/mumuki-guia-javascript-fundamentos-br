@@ -1,8 +1,8 @@
 Você já treinou? :muscle:
 
-Vamos para algo um pouco mais difícil então. Nós vamos te dar um tabuleiro de ** 2x2 ** (isto é, com 4 casas) onde cada uma delas tem ** uma pequena bola vermelha **.
+Vamos para algo um pouco mais difícil então. Nós vamos te dar um tabuleiro de **2x2** (isto é, com 4 casas) onde cada uma delas tem **uma pequena bola vermelha**.
 
-> Sua tarefa é escrever um programa que ** substitui ** todas as pequenas bolas vermelhas por verdes.
+> Sua tarefa é escrever um programa que **substitui** todas as pequenas bolas vermelhas por verdes.
 
 
 <table class= "table" style="width:100%">
