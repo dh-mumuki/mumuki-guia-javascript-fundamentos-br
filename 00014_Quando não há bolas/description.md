@@ -1,6 +1,6 @@
 Na hora de usar o comando `Retirar`, temos que ter mais cuidado, porque ...
 
-Você quer saber por quê? Tente pegar uma bola verde ou azul deste tabuleiro e descubra.
+Você quer saber por quê? Tente retirar uma bola verde ou azul deste tabuleiro e descubra.
 
 <gs-board>
   GBB/1.0
