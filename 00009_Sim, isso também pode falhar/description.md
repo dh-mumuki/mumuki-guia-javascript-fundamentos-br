@@ -1,12 +1,12 @@
 Até agora temos tentado evitar o problema, mas certamente você já pensou que deve haver alguma maneira de fazer isso falhar (é possível que você já tenha experimentado isso).
 
 
-Enquanto **nunca** nós queremos que nosso programa falhe, é algo que **definitivamente acontecerá conosco muitas vezes**. Mas não é uma razão para se frustrar, muito menos, asseguramos que todos já aconteceram (bem, também 2, 3, 100, 800 vezes ...).
+Nós **nunca** queremos que nosso programa falhe, mas é algo que **definitivamente acontecerá conosco muitas vezes**. Mas isso não é razão para se frustrar, asseguramos que isso acontecerá muitas vezes.
 
 
 Dito isto, vamos mostrar-lhe uma maneira de fazer isso, só para que você não se assuste _tanto_ quando isso acontece com você. :grin:.
 
-> E como é essa forma? Descubra você: a partir do quadro que mostramos abaixo, eu escrevi um programa que faz com que a cabeça fique fora dos limites.
+> E como é essa forma? Descubra você: a partir do quadro abaixo, escrevemos um programa que faz com que a garra fique fora dos limites.
 
 <gs-board>
   GBB/1.0
