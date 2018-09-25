@@ -2,12 +2,10 @@ Genial :smile:!!!.
 
 Você já entendeu como mover a garra do tabuleiro usando a operação “Mover” e as direções (Norte, Sul, Leste e Oeste). Vamos um passo além com as “bolinhas”. Em qualquer célula do nosso tabuleiro, podemos colocar "bolinhas". Existem diferentes cores:
 
-Vermelho (‘Vermelho’)
-Azul (‘Azul’)
-Preto (‘Preto’)
-Verde (‘Verde’)
-
-
+ * Vermelhas (`Vermelho`)
+ * Azuis (`Azul`)
+ * Pretas (`Preto`)
+ * Verdes (`Verde`)
 
 Por exemplo, este é um tabuleiro com uma bola vermelha e uma bola preta:
 
