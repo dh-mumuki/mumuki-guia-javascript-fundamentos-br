@@ -1,5 +1,5 @@
 Neste exercício aprenderemos um comando que podemos dar ao computador: 
-“Mover a garra". Para isso, indicaremos com base nos pontos cardeais, a direção que este irá mover:
+“Mover a garra". Para isso, indicaremos com base nos pontos cardeais a direção que este irá mover:
 
 * Norte (acima)
 * Sul (abaixo)
