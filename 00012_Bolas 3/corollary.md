@@ -1,2 +1,2 @@
-Nós dissemos que você não deveria se importar com o conselho, ou onde a garra está.
-Se o seu programa está bem escrito, e resolve o problema de colocar 4 vermelhos e 3 pretos na célula atual, ele pode funcionar para **qualquer quadro**.
+Nós dissemos que você não deveria se importar com o tabuleiro, ou onde a garra está.
+Se o seu programa está bem escrito, e resolve o problema de colocar 4 vermelhos e 3 pretos na célula atual, ele pode funcionar para **qualquer célula**.
