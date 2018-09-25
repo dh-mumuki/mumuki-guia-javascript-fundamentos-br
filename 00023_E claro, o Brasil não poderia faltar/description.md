@@ -1,6 +1,6 @@
 Você achou que esquecemos nossa bandeira? Claro que não!.
 
-Embora como em Gobstones não há amarelo, vamos ter a audácia de mudá-lo para preto (desculpe [Belgrano] (https://es.wikipedia.org/wiki/Manuel_Belgrano), não temos outro  :cry:).
+Embora como em Gobstones não há amarelo, vamos ter que usar somente o verde e o azul  :cry:).
 
 > Com a garra na origem, sua tarefa é desenhar essa bandeira pseudo-argentina:
 
@@ -14,7 +14,7 @@ Embora como em Gobstones não há amarelo, vamos ter a audácia de mudá-lo para
     cell 2 2 Verde 1
     cell 1 2 Verde 1
     cell 0 2 Verde 1
-    cell 3 1 Negro 1
+    cell 3 1 Azul 1
     cell 6 0 Verde 1
     cell 5 0 Verde 1
     cell 4 0 Verde 1
