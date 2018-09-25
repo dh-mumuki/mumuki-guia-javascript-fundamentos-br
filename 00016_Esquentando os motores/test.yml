@@ -1,5 +1,5 @@
 examples:
- - title: Tablero de 2x2
+ - title: Tabuleiro de 2x2
    initial_board: |
      GBB/1.0
      size 2 2
