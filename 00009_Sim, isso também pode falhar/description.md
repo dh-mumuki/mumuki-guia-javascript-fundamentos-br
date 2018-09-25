@@ -6,7 +6,7 @@ Nós **nunca** queremos que nosso programa falhe, mas é algo que **definitivame
 
 Dito isto, vamos mostrar-lhe uma maneira de fazer isso, só para que você não se assuste _tanto_ quando isso acontece com você. :grin:.
 
-> E como é essa forma? Descubra você: a partir do quadro abaixo, escrevemos um programa que faz com que a garra fique fora dos limites.
+> E como é essa forma? Descubra você: a partir do quadro abaixo, escrevemos um programa que faz com que a garra fique fora dos limites. Tente mover mais vezes do que a quantidade de células que existe.
 
 <gs-board>
   GBB/1.0
