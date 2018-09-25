@@ -1,1 +1,1 @@
-Ótimo! Agora que você sabe 'Colocar', 'Retirar' e 'Mover' as bolas e a garra do tabuleiro, estamos prontos para exercícios divertidos! :muscle:
+Ótimo! Agora que você sabe 'Colocar', 'Retirar' e 'Mover' as bolas e a garra do tabuleiro, estamos prontos para exercícios mais divertidos! :muscle:
