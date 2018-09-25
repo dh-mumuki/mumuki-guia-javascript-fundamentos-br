@@ -23,4 +23,4 @@ program {
 
 A garra colocará na célula atual, três bolas vermelhas, uma azul e outra verde.
 
-> Escrevi este programa no editor e veja como está no tabuleiro!
+> Escreva este programa no editor e veja como está no tabuleiro!
