@@ -42,4 +42,4 @@ Vamos para algo um pouco mais difícil então. Nós vamos te dar um tabuleiro de
   <tbody>
 </table>
 
-**¡Ojo!** Veja a representação acima: a cabeça deve estar de volta na posição inicial (0,0) :wink:
+ Veja a representação acima: a cabeça deve estar de volta na posição inicial (0,0) :wink:
