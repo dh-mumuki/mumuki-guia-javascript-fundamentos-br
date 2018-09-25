@@ -6,7 +6,7 @@ Na linguagem `Gobstones` esta seção de código é chamada `programa`. Nesta se
 
 A sintaxe do `programa` em `Gobstones` é bastante simples:
 
-1. nós escrevemos um comando (linha) que diz `program` (tudo minúsculo), seguido de uma tecla de abertura: `{`
+1. nós escrevemos um comando (linha) que diz `program` (tudo minúsculo), seguido de uma chave de abertura: `{`
 1. então os comandos: um em cada linha
 1. e finalmente, uma última chave que fecha aquela que abrimos anteriormente: `}`
 
