@@ -7,4 +7,4 @@ Avance para o próximo exercício para entender o que fizemos exatamente…
 
 **Importante**  
 Cada vez que completar *corretamente* um exercício, você verá informações extras como essa, com algum comentário sobre o tema que está aprendendo ou sobre a resolução do próprio exercício.
-Não perca muito tempo, ele irá ajudá-lo a corrigir os novos conceitos.
+Leia com atenção, ele irá ajudá-lo a adquirir novos conceitos.
