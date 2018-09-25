@@ -10,7 +10,7 @@ A sintaxe do `programa` em `Gobstones` é bastante simples:
 1. então os comandos: um em cada linha
 1. e finalmente, uma última chave que fecha aquela que abrimos anteriormente: `}`
 
-Alguns exemplos de `program`s:
+Alguns exemplos de `program`:
 
 <table class = "table" style = "largura: 100%">
   <tbody>
