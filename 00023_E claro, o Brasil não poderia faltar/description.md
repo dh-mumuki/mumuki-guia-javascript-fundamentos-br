@@ -1,6 +1,6 @@
 Você achou que esquecemos nossa bandeira? Claro que não!.
 
-Embora como em Gobstones não há amarelo, vamos ter que usar somente o verde e o azul  :cry:).
+Embora como em Gobstones não há amarelo, vamos ter que usar somente o verde e o azul  :cry:.
 
 > Com a garra na origem, sua tarefa é desenhar essa bandeira pseudo-argentina:
 
