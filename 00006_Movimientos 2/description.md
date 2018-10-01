@@ -32,7 +32,7 @@ Não faz nada
     </ td>
     <td style = "alinhamento de texto: centro"> <i class = "fa fa-arrow-right"> </ i> </ td>
     <td style = "text-align: left">
-Mova a cabeça uma posição para o norte
+Mova a garra uma posição para o norte
     </ td>
   </ tr>
   <tr>
@@ -44,7 +44,7 @@ Mova a cabeça uma posição para o norte
     </ td>
     <td style = "alinhamento de texto: centro"> <i class = "fa fa-arrow-right"> </ i> </ td>
     <td style = "text-align: left">
-Mova a cabeça duas posições para o norte
+Mova a garra duas posições para o norte
     </ td>
   </ tr>
   <tbody>
