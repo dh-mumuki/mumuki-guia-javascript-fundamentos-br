@@ -1,4 +1,4 @@
-Usando as ferramentas que você já conhece, desenhe uma escada azul como a que você vê na imagem. A garra **começa na posição inicial** (0,0) e deve estar na extremidade inferior direita da escada.
+Usando as ferramentas que você já conhece, desenhe uma escada azul como a que você vê na imagem. A garra **começa na posição inicial** (0,0) e deve finalizar na extremidade inferior direita da escada.
 
 Muito complicado? Nós mostramos como o tabuleiro final deve ser:
 
