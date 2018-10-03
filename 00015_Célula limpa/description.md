@@ -1,4 +1,4 @@
-Um último esforço: usando o `Retirar`, escreva um programa que elimina todas as bolas do tabuleiro:
+Um último esforço: usando o `Retirar`, escreva um programa que elimine todas as pedras do tabuleiro:
 
 <gs-board>
   GBB/1.0
