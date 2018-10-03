@@ -24,4 +24,4 @@ Por exemplo, abaixo temos um tabuleiro de 5x2, com a garra na segunda linha (lin
 
 
 > 
-Isso não te convence ainda? Pressione **Continuar** e começaremos a trabalhar com um tabuleiro de 3 células de largura x 3 células de altura.
+Isso não te convence ainda? Pressione **Enviar** e começaremos a trabalhar com um tabuleiro de 3 células de largura x 3 células de altura.
