@@ -12,8 +12,8 @@ program {
 
 Sequencialmente
 
-1. coloque uma bola vermelha
+1. coloque uma pedra vermelha
 1. mova-se para o leste
-1. depois coloque uma bola preta
+1. depois coloque uma pedra preta
 
-Ou seja: coloque uma bola vermelha na posição inicial e uma bola preta no leste
+Ou seja: coloque uma pedra vermelha na posição inicial e uma pedra preta no leste

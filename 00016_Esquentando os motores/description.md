@@ -1,6 +1,6 @@
 Vamos ver o seguinte programa!
 
-Este programa coloca uma bola vermelha na posição inicial e uma bola preta no leste.
+Este programa coloca uma pedra vermelha na posição inicial e uma pedra preta no leste.
 
 ```gobstones
 program {
