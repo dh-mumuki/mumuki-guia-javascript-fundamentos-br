@@ -3,7 +3,7 @@ Agora que estamos combinando operações, e como comentamos previamente, teremos
 Tendo isso em mente, responda ... O que esses programas fazem?
 
 
-```puppet
+```gobstones
 program {
   Mover(Leste)
   Colocar(Vermelho)
