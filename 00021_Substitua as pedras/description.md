@@ -1,8 +1,8 @@
 Você já treinou? :muscle:
 
-Vamos para algo um pouco mais difícil então. Nós vamos te dar um tabuleiro de **2x2** (isto é, com 4 casas) onde cada uma delas tem **uma pequena bola vermelha**.
+Vamos para algo um pouco mais difícil então. Nós vamos te dar um tabuleiro de **2x2** (isto é, com 4 células) onde cada uma delas tem **uma pequena pedra vermelha**.
 
-> Sua tarefa é escrever um programa que **substitui** todas as pequenas bolas vermelhas por verdes.
+> Sua tarefa é escrever um programa que **substitua** todas as pedras vermelhas por verdes.
 
 
 <table class= "table" style="width:100%">
@@ -42,4 +42,4 @@ Vamos para algo um pouco mais difícil então. Nós vamos te dar um tabuleiro de
   <tbody>
 </table>
 
-Veja a representação acima: a cabeça deve estar de volta na posição inicial (0,0) :wink:
+Veja a representação acima: a garra deve estar de volta na posição inicial (0,0) :wink:
