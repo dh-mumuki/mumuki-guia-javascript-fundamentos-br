@@ -1,4 +1,4 @@
-> Escreva um programa que coloca duas bolas na posição inicial e outras duas na célula à leste. Todas as bolas devem ser vermelhas.
+> Escreva um programa que coloque duas pedras na posição inicial e outras duas na célula à leste. Todas as pedras devem ser vermelhas.
 
 Aqui nós damos um exemplo de como o tabuleiro deve ser:
 
