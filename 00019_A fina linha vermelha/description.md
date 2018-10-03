@@ -1,4 +1,4 @@
-> Escreva um programa que, a partir de um tabuleiro vazio com a garra na posição inicial (0,0), desenha uma linha de quatro bolas vermelhas, **cada uma a leste da outra**.
+> Escreva um programa que, a partir de um tabuleiro vazio com a garra na posição inicial (0,0), desenhe uma linha de quatro pedras vermelhas, **cada uma a leste da outra**.
 
 Aqui nós damos um exemplo de como o tabuleiro deve se parecer. Tenha em mente que, além disso, a garra deve estar no final da linha, como visto na imagem:
 
