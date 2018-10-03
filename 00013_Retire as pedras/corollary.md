@@ -1,1 +1,1 @@
-Bom! E se não houvesse bolas para tirar? :frowning:
+Bom! E se não houvesse pedras para tirar? :frowning:
