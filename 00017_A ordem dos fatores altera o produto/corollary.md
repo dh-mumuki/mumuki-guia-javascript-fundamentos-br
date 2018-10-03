@@ -13,14 +13,14 @@ program {
 sequencialmente:
 
 1. se move para leste
-1. então põe uma bola vermelha
-1. então põe uma bola preta
+1. então põe uma pedra vermelha
+1. então põe uma pedra preta
 
-Ou seja, coloque uma bola vermelha e uma bola preta a leste da posição inicial.
+Ou seja, coloque uma pedra vermelha e uma pedra preta a leste da posição inicial.
 
 Enquanto o segundo programa
 
-```puppet
+```gobstones
 program {
   Colocar(Preto)
   Mover(Leste)
@@ -29,8 +29,8 @@ program {
 ```
 sequencialmente:
 
-1. Põe uma bola preta
+1. Põe uma pedra preta
 1. Se move para leste
-1. Então põe uma bola vermelha
+1. Então põe uma pedra vermelha
 
-Ou seja: põe uma bola preta na posição inicial e uma bola vermelha a leste da bola preta.
+Ou seja: põe uma pedra preta na posição inicial e uma pedra vermelha a leste da pedra preta.
