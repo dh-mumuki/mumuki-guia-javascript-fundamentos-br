@@ -1,4 +1,4 @@
-Note que nesse problema, se mudarmos a ordem das instruções, o resultado não muda: sempre teremos uma célula com três bolas vermelhas, uma azul e outra verde.
+Note que nesse problema, se mudarmos a ordem das instruções, o resultado não muda: sempre teremos uma célula com três pedras vermelhas, uma azul e outra verde.
 
 
 Por exemplo, os dois programas a seguir também geram esse mesmo resultado:
