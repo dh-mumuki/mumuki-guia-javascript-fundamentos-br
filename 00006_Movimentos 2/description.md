@@ -47,6 +47,19 @@ Mova a garra uma posição para o norte
 Mova a garra duas posições para o norte
     </ td>
   </ tr>
+  <tr>
+    <td style = "text-align: left">
+      <pre class = "highlight gobstones"> <código> <span class = "kr"> program </ span> {
+  Mover(Norte)
+  Mover(Norte)
+  Mover(Norte)
+} </ code> </ pre>
+    </ td>
+    <td style = "alinhamento de texto: centro"> <i class = "fa fa-arrow-right"> </ i> </ td>
+    <td style = "text-align: left">
+Mova a garra duas posições para o norte
+    </ td>
+  </ tr>
   <tbody>
 </ table>
 
