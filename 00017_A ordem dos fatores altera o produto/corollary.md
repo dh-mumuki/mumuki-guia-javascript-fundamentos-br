@@ -3,7 +3,7 @@ Moral: eles não fazem o mesmo! Mudar a ordem mudou o objetivo, isto é, o ‘o 
 O primeiro programa
 
 
-```puppet
+```gobstones
 program {
   Mover(Leste)
   Colocar(Vermelho)
