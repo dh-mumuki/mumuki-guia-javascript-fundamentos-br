@@ -1,4 +1,4 @@
-Algo interessante sobre nossos tabuleiros é que em suas células podemos colocar qualquer número de bolas de qualquer cor.
+Algo interessante sobre nossos tabuleiros é que em suas células podemos colocar qualquer número de pedras de qualquer cor.
 
 Por exemplo, se tivermos este tabuleiro:
 
@@ -9,7 +9,7 @@ Por exemplo, se tivermos este tabuleiro:
     head 3 1
 </gs-board>
 
-e executamos o seguinte programa:
+e executarmos o seguinte programa:
 
 ```gobstones
 program {
@@ -21,6 +21,6 @@ program {
 }
 ```
 
-A garra colocará na célula atual, três bolas vermelhas, uma azul e outra verde.
+A garra colocará na célula atual, três pedras vermelhas, uma azul e outra verde.
 
 > Escreva este programa no editor e veja como está no tabuleiro!
