@@ -52,7 +52,7 @@ Mova a garra duas posições para o norte
 
 
 
-> Sabendo disso, eu escrevi um programa que move a cabeça três vezes para o norte, em uma placa de 2x4 com a cabeça na origem (a célula na parte inferior esquerda):
+>Sabendo disso, eu escrevi um programa que move a cabeça três vezes para o norte, em uma placa de 2x4 com a cabeça na origem (a célula na parte inferior esquerda):
 
 <table class= "table" style="width:100%">
   <thead>
