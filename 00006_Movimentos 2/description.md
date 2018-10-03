@@ -57,7 +57,7 @@ Mova a garra duas posições para o norte
     </ td>
     <td style = "alinhamento de texto: centro"> <i class = "fa fa-arrow-right"> </ i> </ td>
     <td style = "text-align: left">
-Mova a garra duas posições para o norte
+Mova a garra três posições para o norte
     </ td>
   </ tr>
   <tbody>
