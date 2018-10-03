@@ -2,7 +2,7 @@ Agora que combinamos as operações, as coisas ficam um pouco mais complicadas, 
 
 Olhe para o programa que você escreveu:
 
-```puppet
+```gobstones
 program {
   Colocar(Vermelho)
   Mover(Leste)
