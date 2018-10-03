@@ -1,8 +1,8 @@
-Escreva um programa que desenha uma bandeira portuguesa, que se parece com isso:
+Escreva um programa que desenhe uma bandeira portuguesa, que se pareça com isso:
 
 <img src="http://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" width="70">
 
-Como não vamos ficar tão exigentes, vamos pedir uma versão simplificada, que tem que ser assim:
+Como não vamos ser tão exigentes, vamos pedir uma versão simplificada, que tem que ser assim:
 
 <gs-board>
   GBB/1.0
