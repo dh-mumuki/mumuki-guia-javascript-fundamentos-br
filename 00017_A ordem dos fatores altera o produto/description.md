@@ -11,7 +11,7 @@ program {
 }
 ```
 
-```puppet
+```gobstones
 program {
   Colocar(Preto)
   Mover(Leste)
