@@ -4,7 +4,7 @@ Olhe para o programa que você escreveu:
 
 ```puppet
 program {
-  Colcar(Vermelho)
+  Colocar(Vermelho)
   Mover(Leste)
   Colocar(Preto)
 }
