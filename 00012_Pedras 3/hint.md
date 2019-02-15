@@ -1,4 +1,4 @@
-Mostramos-lhe o tabuleiro no qual vamos executar o seu programa:
+Este é o tabuleiro no qual vamos executar o seu programa:
 
 <gs-board>
   GBB/1.0
