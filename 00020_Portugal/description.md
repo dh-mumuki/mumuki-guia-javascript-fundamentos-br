@@ -1,5 +1,5 @@
 
-
+> Escreva um programa que desenhe uma bandeira portuguesa, que se pareça com isso:
 
 Como não vamos ser tão exigentes, vamos pedir uma versão simplificada, que tem que ser assim:
 
@@ -18,6 +18,6 @@ Como não vamos ser tão exigentes, vamos pedir uma versão simplificada, que te
 <img src="http://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" width="70">
 
 
-> Escreva um programa que desenhe uma bandeira portuguesa, que se pareça com isso:
+
 
 Ah, a garra começa na origem.
