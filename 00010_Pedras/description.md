@@ -1,6 +1,6 @@
 Genial :smile:
 
-Você já entendeu como mover a garra do tabuleiro usando a operação “Mover” e as direções (Norte, Sul, Leste e Oeste). Vamos um passo além com as “pedrinhas”. Em qualquer célula do nosso tabuleiro, podemos colocar "pedrinhas". Existem diferentes cores:
+Você já entendeu como mover a garra do tabuleiro usando a operação “Mover” e as direções (Norte, Sul, Leste e Oeste). Vamos um passo além com as “pedrinhas”. Em qualquer célula do nosso tabuleiro, podemos colocar "pedrinhas" com diferentes cores:
 
  * Vermelhas (`Vermelho`)
  * Azuis (`Azul`)
