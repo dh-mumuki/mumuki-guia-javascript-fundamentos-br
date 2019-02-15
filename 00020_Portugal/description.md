@@ -1,4 +1,4 @@
-Escreva um programa que desenhe uma bandeira portuguesa, que se pareça com isso:
+> Escreva um programa que desenhe uma bandeira portuguesa, que se pareça com isso:
 
 <img src="http://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" width="70">
 
