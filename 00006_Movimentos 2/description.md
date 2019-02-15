@@ -65,7 +65,7 @@ Mova a garra três posições para o norte
 
 
 
-Sabendo disso, escreva um programa que move a garra três vezes para o norte, em uma placa de 2x4 com a garra na origem (a célula na parte inferior esquerda):
+> Sabendo disso, escreva um programa que move a garra três vezes para o norte, em uma placa de 2x4 com a garra na origem (a célula na parte inferior esquerda):
 
 <table class= "table" style="width:100%">
   <thead>
