@@ -1,6 +1,9 @@
 
 > Escreva um programa que desenhe uma bandeira portuguesa, que se pareça com isso:
 
+<img src="http://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" width="70">
+
+
 Como não vamos ser tão exigentes, vamos pedir uma versão simplificada, que tem que ser assim:
 
 <gs-board>
@@ -15,7 +18,6 @@ Como não vamos ser tão exigentes, vamos pedir uma versão simplificada, que te
      head 2 1
 <gs-board>
 
-<img src="http://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" width="70">
 
 
 
