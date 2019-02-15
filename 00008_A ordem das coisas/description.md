@@ -40,12 +40,12 @@ program {
 }
 ```
 
-uma forma possível de lê-lo (chamada **sequencial**) é como uma máquina faria: em ordem, de cima para baixo:
+Uma forma possível de lê-lo (chamada **sequencial**) é como uma máquina faria: em ordem, de cima para baixo:
 
-1. primero se move ao norte: `Mover(Norte)`
+1. Primeiro se move ao norte: `Mover(Norte)`
 1. Então se move ao norte novamente: `Mover(Norte)`
-1. então se move ao leste: `Mover(Leste)`
-1. e finalmente se move a leste mais uma vez: `Mover(Leste)`
+1. Então se move ao leste: `Mover(Leste)`
+1. E finalmente se move a leste mais uma vez: `Mover(Leste)`
 
 E de fato **é executado dessa maneira**.
 
