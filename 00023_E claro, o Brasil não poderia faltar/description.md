@@ -1,4 +1,4 @@
-Você achou que esquecemos nossa bandeira? Claro que não!.
+Você achou que esquecemos nossa bandeira? Claro que não!
 
 Como em Gobstones não há amarelo, vamos ter que usar somente o verde e o azul  :cry:.
 
