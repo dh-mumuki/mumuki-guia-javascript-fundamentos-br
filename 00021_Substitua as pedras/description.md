@@ -1,6 +1,6 @@
 Você já treinou? :muscle:
 
-Nós vamos te dar um tabuleiro de **2x2** (isto é, com 4 células) onde cada uma delas tem **uma pequena pedra vermelha**.
+Vamos te dar um tabuleiro de **2x2** (isto é, com 4 células) onde cada uma delas tem **uma pequena pedra vermelha**.
 
 > Sua tarefa é escrever um programa que **substitua** todas as pedras vermelhas por verdes.
 
