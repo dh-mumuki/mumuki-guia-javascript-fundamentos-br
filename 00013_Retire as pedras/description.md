@@ -8,7 +8,7 @@ program {
   Retirar(Vermelho)
 }
 ```
-> Sabendo disso, escreva um programa que remova **apenas** a pedra vermelha deste tabuleiro. **Tenha cuidado!** Preste atenção para a posição da garra.: wink:
+> Sabendo disso, escreva um programa que remova **apenas** a pedra vermelha deste tabuleiro. **Tenha cuidado!** Preste atenção para a posição da garra.:wink:
 
 <gs-board>
   GBB/1.0
