@@ -29,7 +29,7 @@ program {
 ```
 
 
-> Experimente este programa! Escreva o código no editor para colocar uma pedrinha vermelha no tabuleiro e clique em **Enviar** para ver o que acontece quando é executado no tabuleiro.
+> Experimente este programa! Escreva o código no editor para colocar uma pedrinha vermelha no tabuleiro e clique em **Enviar** para ver o que acontece quando é executado.
 
 <gs-board>
   GBB/1.0
