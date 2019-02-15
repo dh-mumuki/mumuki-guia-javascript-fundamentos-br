@@ -4,7 +4,7 @@
 <img src="http://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" width="70">
 
 
-Como não vamos ser tão exigentes, vamos pedir uma versão simplificada, que tem que ser assim:
+A bandeira tem que ser assim:
 
 <gs-board>
   GBB/1.0
