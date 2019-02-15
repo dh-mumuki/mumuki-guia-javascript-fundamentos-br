@@ -55,4 +55,4 @@ Mas, nós humanos tendemos a pensar em termos do resultado final, isto é, enfat
 Por isso há várias formas de resolver um mesmo problema: podemos escrever vários programas que faça o mesmo (o _que_), mas faça diferente (o _como_).
 
 
-> Vejamos se você entendeu isso: escreva outro programa que faz o mesmo que o anterior (move-se para o canto nordeste), mas de uma maneira diferente. Tem que trabalhar em um tabuleiro 3x3.
+> Escreva outro programa que faz o mesmo que o anterior (move-se para o canto nordeste), mas de uma maneira diferente. Tem que trabalhar em um tabuleiro 3x3.
