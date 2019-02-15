@@ -1,4 +1,4 @@
-Usando as ferramentas que você já conhece, desenhe uma escada azul como a que você vê na imagem. A garra **começa na posição inicial** (0,0) e deve finalizar 3 células a leste da escada.
+Usando as ferramentas que você já conhece, desenhe uma escada azul como a que você vê na imagem. 
 
 O tabuleiro final deve ser:
 
