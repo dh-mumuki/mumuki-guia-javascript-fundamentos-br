@@ -4,7 +4,7 @@ Todo programa tem uma seção de código onde os comandos (ações) que queremos
 
 Na linguagem `Gobstones` esta seção de código é chamada `programa`. Nesta seção, executaremos os comandos que queremos que a máquina execute na placa **inicial** e cujo resultado será exibido na placa **final**.
 
-A sintaxe do `programa` em `Gobstones` é bastante simples:
+A sintaxe (forma de escrever) do `programa` em `Gobstones` é bastante simples:
 
 1. nós escrevemos um comando (linha) que diz `program` (tudo minúsculo), seguido de uma chave de abertura: `{`
 1. então os comandos: um em cada linha
