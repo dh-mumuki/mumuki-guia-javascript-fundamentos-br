@@ -1,4 +1,4 @@
-Usando o `Retirar`, escreva um programa que elimine todas as pedras do tabuleiro:
+> Usando o `Retirar`, escreva um programa que elimine todas as pedras do tabuleiro:
 
 <gs-board>
   GBB/1.0
