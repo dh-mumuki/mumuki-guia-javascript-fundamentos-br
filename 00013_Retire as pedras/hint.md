@@ -1,1 +1,1 @@
-Você pode ter que mover a garra **antes** de retirar a pedra :innocent:
+Mova a garra **antes** de retirar a pedra :innocent:
