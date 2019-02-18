@@ -1,7 +1,7 @@
 check_head_position: true
 
 examples:
- - title: '¡BOOM!'
+ - title: 'BOOM!'
    initial_board: |
      GBB/1.0
      size 2 2
