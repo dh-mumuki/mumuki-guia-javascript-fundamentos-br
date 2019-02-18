@@ -20,7 +20,3 @@ Por exemplo, abaixo temos um tabuleiro de 5x2, com a garra na segunda linha (lin
     size 5 2
     head 3 1
 </gs-board>
-
-
-
-> 
