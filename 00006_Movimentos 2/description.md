@@ -12,62 +12,62 @@ A sintaxe (forma de escrever) do `programa` em `Gobstones` é bastante simples:
 
 Alguns exemplos de `program`:
 
-<table class = "table" style = "largura: 100%">
+<table class="table" style = "width: 100%">
   <tbody>
   <tr>
-    <td style = "text-align: left">
-      <pre class = "highlight gobstones"> <código> <span class = "kr"> program </ span> {
-} </ code> </ pre>
-    </ td>
-    <td style = "alinhamento de texto: centro"> <i class = "fa fa-arrow-right"> </ i> </ td>
-    <td style = "text-align: left">
+    <td style="text-align: left">
+      <pre class="highlight gobstones"> <code> <span class="kr"> program </span> {
+} </code> </pre>
+    </td>
+    <td style="text-align: centro"> <i class="fa fa-arrow-right"> </i> </td>
+    <td style="text-align: left">
 Não faz nada
-    </ td>
-  </ tr>
+    </td>
+  </tr>
   <tr>
-    <td style = "text-align: left">
-      <pre class = "highlight gobstones"> <código> <span class = "kr"> program </ span> {
+    <td style="text-align: left">
+      <pre class="highlight gobstones"> <code> <span class="kr"> program </span> {
   Mover(Norte)
-} </ code> </ pre>
-    </ td>
-    <td style = "alinhamento de texto: centro"> <i class = "fa fa-arrow-right"> </ i> </ td>
-    <td style = "text-align: left">
+} </code> </pre>
+    </td>
+    <td style="text-align: centro"> <i class="fa fa-arrow-right"> </i> </td>
+    <td style="text-align: left">
 Mova a garra uma posição para o norte
-    </ td>
-  </ tr>
+    </td>
+  </tr>
   <tr>
-    <td style = "text-align: left">
-      <pre class = "highlight gobstones"> <código> <span class = "kr"> program </ span> {
+    <td style="text-align: left">
+      <pre class="highlight gobstones"> <code> <span class="kr"> program </span> {
   Mover(Norte)
   Mover(Norte)
-} </ code> </ pre>
-    </ td>
-    <td style = "alinhamento de texto: centro"> <i class = "fa fa-arrow-right"> </ i> </ td>
+} </code> </pre>
+    </td>
+    <td style = "text-align: centro"> <i class="fa fa-arrow-right"> </i> </td>
     <td style = "text-align: left">
 Mova a garra duas posições para o norte
-    </ td>
-  </ tr>
+    </td>
+  </tr>
   <tr>
-    <td style = "text-align: left">
-      <pre class = "highlight gobstones"> <código> <span class = "kr"> program </ span> {
+    <td style="text-align: left">
+      <pre class="highlight gobstones"> <code> <span class="kr"> program </span> {
   Mover(Norte)
   Mover(Norte)
   Mover(Norte)
-} </ code> </ pre>
-    </ td>
-    <td style = "alinhamento de texto: centro"> <i class = "fa fa-arrow-right"> </ i> </ td>
-    <td style = "text-align: left">
+} </code> </pre>
+    </td>
+    <td style="text-align: centro"> <i class="fa fa-arrow-right"> </i> </td>
+    <td style="text-align: left">
 Mova a garra três posições para o norte
-    </ td>
-  </ tr>
+    </td>
+  </tr>
   <tbody>
-</ table>
+</table>
 
 
 
 Sabendo disso, escreva um programa que move a garra três vezes para o norte, em uma placa de 2x4 com a garra na origem (a célula na parte inferior esquerda):
 
-<table class= "table" style="width:100%">
+<table class="table" style="width:100%">
   <thead>
   <tr>
     <th style="text-align: center">Inicial</th>
