@@ -24,7 +24,7 @@ Enquanto o segundo programa
 program {
   Colocar(Preto)
   Mover(Leste)
-  Colocar(Preto)
+  Colocar(Vermelho)
 }
 ```
 sequencialmente:
